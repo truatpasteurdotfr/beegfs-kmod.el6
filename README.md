@@ -1,0 +1,1 @@
+# beegfs-kmod.el6
